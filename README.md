@@ -1,4 +1,4 @@
-# jsdelivr jscdn
+# jscdn
 CDN:
 https://cdn.jsdelivr.net/gh/xiaodongus/jscdn@latest/
 
@@ -13,3 +13,5 @@ https://cdn.jsdelivr.net/gh/xiaodongus/jscdn@latest/MigkcNowxQk.jpg
 https://raw.sevencdn.com/xiaodongus/jscdn/master/MigkcNowxQk.jpg
 
 https://raw.fastgit.org/xiaodongus/jscdn/master/MigkcNowxQk.jpg
+
+https://raw.githubusercontents.com/xiaodongus/jscdn/master/MigkcNowxQk.jpg
