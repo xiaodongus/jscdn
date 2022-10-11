@@ -16,6 +16,8 @@ https://raw.sevencdn.com/xiaodongus/jscdn/master/MigkcNowxQk.jpg
 
 https://raw.fastgit.org/xiaodongus/jscdn/master/MigkcNowxQk.jpg
 
+https://raw.fgit.ml/xiaodongus/jscdn/master/MigkcNowxQk.jpg
+
 https://raw.githubusercontents.com/xiaodongus/jscdn/master/MigkcNowxQk.jpg
 
 https://raw.iqiq.io/xiaodongus/jscdn/master/MigkcNowxQk.jpg
