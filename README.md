@@ -21,3 +21,5 @@ https://raw.fgit.ml/xiaodongus/jscdn/master/MigkcNowxQk.jpg
 https://raw.githubusercontents.com/xiaodongus/jscdn/master/MigkcNowxQk.jpg
 
 https://raw.iqiq.io/xiaodongus/jscdn/master/MigkcNowxQk.jpg
+
+https://jscdn.comw.cc/MigkcNowxQk.jpg
