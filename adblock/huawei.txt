@@ -47,8 +47,8 @@
 ||hc-cdn.cn^
 ||huaweicloud-dns.cn^
 ||huaweicloud-dns.com^
-||huaweicloud-dns.net @!cn^
-||huaweicloud-dns.org @!cn^
+||huaweicloud-dns.net^
+||huaweicloud-dns.org^
 ||huaweicloud-smn.cn^
 ||huaweicloud-smn.com^
 ||huaweicloud-smn.net^
