@@ -10,18 +10,18 @@ https://doc.fastgit.org/zh-cn/guide.html
 
 Demo:
 
-https://cdn.jsdelivr.net/gh/xiaodongus/jscdn@latest/MigkcNowxQk.jpg
+https://cdn.jsdelivr.net/gh/xiaodongus/jscdn@latest/testfile/10k.jpg
 
-https://raw.sevencdn.com/xiaodongus/jscdn/master/MigkcNowxQk.jpg
+https://raw.sevencdn.com/xiaodongus/jscdn/master/testfile/10k.jpg
 
-https://raw.fastgit.org/xiaodongus/jscdn/master/MigkcNowxQk.jpg
+https://raw.fastgit.org/xiaodongus/jscdn/master/testfile/10k.jpg
 
-https://raw.fgit.ml/xiaodongus/jscdn/master/MigkcNowxQk.jpg
+https://raw.fgit.ml/xiaodongus/jscdn/master/testfile/10k.jpg
 
-https://raw.githubusercontents.com/xiaodongus/jscdn/master/MigkcNowxQk.jpg
+https://raw.githubusercontents.com/xiaodongus/jscdn/master/testfile/10k.jpg
 
-https://raw.iqiq.io/xiaodongus/jscdn/master/MigkcNowxQk.jpg
+https://raw.iqiq.io/xiaodongus/jscdn/master/testfile/10k.jpg
 
-https://jscdn.comw.cc/MigkcNowxQk.jpg
+https://jscdn.comw.cc/testfile/10k.jpg
 
-https://jscdn.lxd.cc/MigkcNowxQk.jpg
+https://jscdn.lxd.cc/testfile/10k.jpg
