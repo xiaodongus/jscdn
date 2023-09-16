@@ -16,3 +16,5 @@ https://jscdn.comw.cc/testfile/10k.jpg
 
 https://jscdn.lxd.cc/testfile/10k.jpg
 
+https://jscdn.lxd.app/testfile/10k.jpg
+
