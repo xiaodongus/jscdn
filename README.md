@@ -18,6 +18,8 @@ https://jscdn.lxd.app/testfile/10k.jpg
 
 https://jscdn.lxd.tw/testfile/10k.jpg 
 
+https://jscdn.lxd.pub/testfile/10k.jpg 
+
 https://jscdn.566667.xyz/testfile/10k.jpg 
 
 https://jscdn.ku6.bid/testfile/10k.jpg 
